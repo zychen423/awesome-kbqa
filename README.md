@@ -27,7 +27,7 @@ A curated list of resources related to Knowledge Base Question Answering
   - [code](https://github.com/zychen423/UHop)
 - [Knowledge Graph Embedding Based Question Answering](https://dl.acm.org/doi/abs/10.1145/3289600.3290956)
 - [Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering](https://www.aclweb.org/anthology/P19-1616/)
-  - [code](https://github.com/wudapeng268/KBQA-Adapter
+  - [code](https://github.com/wudapeng268/KBQA-Adapter)
 
 #### 2018
 ---
