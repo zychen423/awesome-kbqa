@@ -6,7 +6,6 @@ A curated list of resources related to Knowledge Base Question Answering
   - [KBQA](#kbqa)
   - [Knowledge Base Construction](#knowledge-base-construction)
 - [Dataset](#dataset)
-- [Code](#code)
 - [Knowledge Base](knowledge-base)
 - [Tool](#tool)
 
@@ -14,12 +13,10 @@ A curated list of resources related to Knowledge Base Question Answering
 ### KBQA
 #### 2020
 ---
-- [Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases](https://www.aclweb.org/anthology/2020.acl-main.91/)
-  - [code](https://github.com/lanyunshi/Multi-hopComplexKBQA)
-- [NeuInfer : Knowledge Inference on N-ary Facts](https://www.aclweb.org/anthology/2020.acl-main.546/)
-- [Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](https://www.aclweb.org/anthology/2020.acl-main.412/)
-- [SPARQA: Skeleton-based Semantic Parsing for Complex Questions over Knowledge Bases](https://arxiv.org/abs/2003.13956)
-  - [code](https://github.com/nju-websoft/SPARQA)
+- **Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases**, ACL 2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.91/)[[code]](https://github.com/lanyunshi/Multi-hopComplexKBQA)
+- **NeuInfer : Knowledge Inference on N-ary Facts**, ACL2020 (https://www.aclweb.org/anthology/2020.acl-main.546/)
+- **Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings**, ACL 2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.412/)
+- **SPARQA: Skeleton-based Semantic Parsing for Complex Questions over Knowledge Bases**, AAAI 2020 [[paper]](https://arxiv.org/abs/2003.13956)[[code]](https://github.com/nju-websoft/SPARQA)
 
 #### 2019
 ---
