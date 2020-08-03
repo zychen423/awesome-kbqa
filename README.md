@@ -79,7 +79,7 @@ A curated list of resources related to Knowledge Base Question Answering
   [[paper]](https://www.aclweb.org/anthology/P16-2033/)
 - **Simple Question Answering by Attentive Convolutional Neural Network**, COLING 2016 
   [[paper]](https://www.aclweb.org/anthology/C16-1164/)
-  [[code]][https://github.com/Gorov/SimpleQuestions-EntityLinking]
+  [[code]](https://github.com/Gorov/SimpleQuestions-EntityLinking)
 
 #### 2015
 ---
