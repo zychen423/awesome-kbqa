@@ -115,6 +115,7 @@ A curated list of resources related to Knowledge Base Question Answering
 
 
 ### Knowledge Base Construction
+---
 - **Semi-Automating Knowledge Base Construction for Cancer Genetics**, AKBC 2020
   [[paper]](https://arxiv.org/abs/2005.08146)
 - **Learning to Update Knowledge Graphs by Reading News**, EMNLP 2019
