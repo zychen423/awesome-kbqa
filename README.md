@@ -34,6 +34,8 @@ A curated list of resources related to Knowledge Base Question Answering
 - **Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering**, ACL 2019 
   [[paper]](https://www.aclweb.org/anthology/P19-1616/)
   [[code]](https://github.com/wudapeng268/KBQA-Adapter)
+- **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text**, EMNLP-IJCAI 2019
+  [[paper]](https://www.aclweb.org/anthology/D19-1242/)
 
 #### 2018
 ---
