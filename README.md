@@ -1,13 +1,15 @@
 # Awesome-KBQA
-A curated list of resources related to Knowledge Base Question Answering
+A list of resources related to Knowledge Base Question Answering. 
 
 ## List of Contents
 - [Paper](#paper)
   - [KBQA](#kbqa)
   - [Knowledge Base Construction](#knowledge-base-construction)
 - [Dataset](#dataset)
-- [Knowledge Base](knowledge-base)
+- [Knowledge Base](#knowledge base)
 - [Tool](#tool)
+- [Contribution](#contribution)
+- [Reference](#reference)
 
 ## Paper
 ### KBQA
@@ -151,6 +153,15 @@ A curated list of resources related to Knowledge Base Question Answering
   [[link]](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ## Tool
+### RDF database
 - **Virtuoso** 
   [[link]](https://virtuoso.openlinksw.com/)    
-  A database which can store tuples and accept SPARQL queries.
+- **GraphDB**
+  [[link]](https://graphdb.ontotext.com/)
+  
+  
+## Contribution
+Feel free to send a pull request or open an issue.
+
+## Reference
+- https://github.com/terryum/awesome-deep-learning-papers
